@@ -1,0 +1,16 @@
+{
+	"id": "peter_griffin_snowball",
+	"assets_only": true,
+	"packs": [
+		{
+			"path": "mod.pck",
+		},
+	],
+	"overrides": [
+		{
+			"path": "overrides",
+			"priority": 99,
+			"phase": "late",
+		},
+	]
+}

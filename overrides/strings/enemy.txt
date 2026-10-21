@@ -1,0 +1,9 @@
+# Overridden string files work in a unique way!
+# Instead of overriding the whole file, they only override the specified strings.
+:snowball:
+	:name:
+		Peter Griffin
+
+	:phonebook:
+		   Ah jeez Lois this is worse then da time I had to cross dress in order to hit on tansmascs
+		

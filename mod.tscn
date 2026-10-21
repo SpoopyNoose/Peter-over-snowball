@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://1788ymw7igk8"]
+
+[ext_resource type="Script" uid="uid://cyt1g7goputcv" path="res://mods/neko_arc_child/mod.gd" id="1_sro4w"]
+
+[node name="Mod" type="Node" unique_id=1567430136]
+script = ExtResource("1_sro4w")
